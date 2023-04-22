@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: azure;
+}
+
+.header_div
+   {
+    background: whitesmoke;
+    color: darkred;
+   }
+
+   .header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+   }
+   .main_div button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+   }
+
+   .copy_right_footer {
+    position: fixed;
+    color: floralwhite;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+   }
